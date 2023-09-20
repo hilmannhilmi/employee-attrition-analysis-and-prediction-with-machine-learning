@@ -1,4 +1,4 @@
-# Employee Attrition Analysis and Preidction with Machine Learning
+# Employee Attrition Analysis and Prediction with Machine Learning
 
 ## Project Description
 In this project, I applied machine learning techniques to analyze and predict employee attrition using a rich dataset featuring 1470 observations and 35 variables. I initiated the task with data preprocessing, where I identified and removed irrelevant features, thus streamlining the data for more effective analysis. Following this, I embarked on an exploratory data analysis (EDA) to uncover the intrinsic patterns and relationships between different features, including the high correlation between certain variables and how they could potentially influence attrition rates.
